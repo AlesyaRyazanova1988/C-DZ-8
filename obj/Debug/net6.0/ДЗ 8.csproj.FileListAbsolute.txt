@@ -1,0 +1,15 @@
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\bin\Debug\net6.0\ДЗ 8.exe
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\bin\Debug\net6.0\ДЗ 8.deps.json
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\bin\Debug\net6.0\ДЗ 8.runtimeconfig.json
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\bin\Debug\net6.0\ДЗ 8.dll
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\bin\Debug\net6.0\ДЗ 8.pdb
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\obj\Debug\net6.0\ДЗ 8.csproj.AssemblyReference.cache
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\obj\Debug\net6.0\ДЗ 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\obj\Debug\net6.0\ДЗ 8.AssemblyInfoInputs.cache
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\obj\Debug\net6.0\ДЗ 8.AssemblyInfo.cs
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\obj\Debug\net6.0\ДЗ 8.csproj.CoreCompileInputs.cache
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\obj\Debug\net6.0\ДЗ 8.dll
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\obj\Debug\net6.0\refint\ДЗ 8.dll
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\obj\Debug\net6.0\ДЗ 8.pdb
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\obj\Debug\net6.0\ДЗ 8.genruntimeconfig.cache
+D:\Обучение в GeekBrains\Знакомство с языками программирования\ДЗ\ДЗ 8\obj\Debug\net6.0\ref\ДЗ 8.dll
